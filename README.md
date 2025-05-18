@@ -16,6 +16,7 @@ This backend application allows users to:
 ---
 
 ## ⚙️ Installation Instructions
+-Create your own mongoDb key and setup in MONGO_URI
 
 ### Prerequisites
 
@@ -26,5 +27,5 @@ This backend application allows users to:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/book-management-api.git
-   cd book-management-api
+   git https://github.com/kesari99/simple-book-collection.git
+   npm run dev
